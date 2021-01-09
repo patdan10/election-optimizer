@@ -1,0 +1,3 @@
+An LP to discover the minimum number of votes needed to win the presidental election via electoral votes.
+
+Discoveries reported in article published here: https://www.mathvalues.org/masterblog/how-low-can-the-popular-vote-go
